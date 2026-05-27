@@ -49,4 +49,10 @@
 - Обработчики создаются заранее, при старте приложения
 - Эндроинт - это URL + метод (GET, POST и тд.)
 
+##Сервис на FastAPI
 Возвращает: app (асинхронная функция, обрабатывабщая запросы)
+Репозиторий: https://github.com/VladCrim/avb_fastapi/blob/master/main.py
+файл: https://github.com/VladCrim/avb_fastapi/blob/master/main.py
+
+Что делает:
+-микросервис на FastAPI который реализует функционал сокращения URL и напрявляет его по короткой ссылке
